@@ -24,7 +24,7 @@ Bu proje ve çözümler oluşturulurken kullanılan geliştirme ortamına ait si
 
 * **İşletim Sistemi:** Windows Geliştirme Ortamı
 * **Sürüm Kontrolü:** Git & GitHub
-* **Kullanılan Araçlar ve Diller:** Python, Markdown, LaTeX
+* **Kullanılan Araçlar:** MathType
 
 ---
 
